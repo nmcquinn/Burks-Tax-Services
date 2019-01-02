@@ -1,0 +1,93 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BurksTax.Com" resolutions="1x" timestamp="1543105674890">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="349663625" ref="deliquent-tax-assistance:contact:services:small-business-bookeeping:tax-resources:about:index:personal-tax-preparation---filing:small-business-tax-preparation---filing"/>
+    <file name="deliquent-tax-assistance.css" crc="4093118679" ref="deliquent-tax-assistance"/>
+    <file name="contact.css" crc="3830291917" ref="contact"/>
+    <file name="services.css" crc="94977898" ref="services"/>
+    <file name="small-business-bookeeping.css" crc="455110004" ref="small-business-bookeeping"/>
+    <file name="tax-resources.css" crc="256261284" ref="tax-resources"/>
+    <file name="about.css" crc="109960628" ref="about"/>
+    <file name="index.css" crc="313139797" ref="index"/>
+    <file name="personal-tax-preparation---filing.css" crc="368869908" ref="personal-tax-preparation---filing"/>
+    <file name="small-business-tax-preparation---filing.css" crc="209871029" ref="small-business-tax-preparation---filing"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="museutils.js" crc="340535759" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="museconfig.js" crc="310584261" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="require.js" crc="7928878" ref="index:services:about:tax-resources:contact:personal-tax-preparation---filing:small-business-tax-preparation---filing:small-business-bookeeping:deliquent-tax-assistance"/>
+    <file name="webpro.js" crc="4059564322" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dburkslogo322x141.png" crc="418597098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="building.jpg" crc="3770582470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rawpixel-586673-unsplash (1).jpg" crc="315056879" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dburkslogo-crop-u2111.png" crc="303220164" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pen-and-smartphone-on-for-85882319-crop-u1353.jpg" crc="104259368" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="dburkslogo163x72.png" crc="4128115579" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="graphs-and-file-folder-with-la-87023156-crop-u2980.jpg" crc="468975392" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="forms-crop-u3270.jpg" crc="4101011265" seo="true" ref="tax-resources">
+      <caption webpage="tax-resources" alt=""/>
+    </file>
+    <file name="get_adobe_reader-crop-u3242.jpg" crc="489837877" seo="true" ref="tax-resources">
+      <caption webpage="tax-resources" alt=""/>
+    </file>
+    <file name="dburkslogo348x153.png" crc="370289059" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="rawpixel-597438-unsplash-crop-u2543.jpg" crc="377533252" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="captcha.png" crc="362548909" ref="contact"/>
+    <file name="personaltax-crop-u3187.jpg" crc="3842238154" seo="true" ref="personal-tax-preparation---filing">
+      <caption webpage="personal-tax-preparation---filing" alt=""/>
+    </file>
+    <file name="accounting-crop-u3184.jpg" crc="3819481916" seo="true" ref="small-business-tax-preparation---filing">
+      <caption webpage="small-business-tax-preparation---filing" alt=""/>
+    </file>
+    <file name="smallbusiness-crop-u3171.jpg" crc="4053302266" seo="true" ref="small-business-bookeeping">
+      <caption webpage="small-business-bookeeping" alt=""/>
+    </file>
+    <file name="dtax-crop-u3018.jpg" crc="152777476" seo="true" ref="deliquent-tax-assistance">
+      <caption webpage="deliquent-tax-assistance" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="447805237" seo="true" mt="1543103598653" redirect="true"/>
+  <file name="services.html" crc="4116960365" seo="true" mt="1543103174047" redirect="true"/>
+  <file name="about.html" crc="4122284153" seo="true" mt="1543104885767" redirect="true"/>
+  <file name="tax-resources.html" crc="90562768" seo="true" mt="1543103541524" redirect="true"/>
+  <file name="contact.html" crc="126688083" seo="true" mt="1543105386050" redirect="true"/>
+  <file name="personal-tax-preparation---filing.html" crc="469545569" seo="true" mt="1543105606333" redirect="true"/>
+  <file name="small-business-tax-preparation---filing.html" crc="433978735" seo="true" mt="1543105298168" redirect="true"/>
+  <file name="small-business-bookeeping.html" crc="3848290663" seo="true" mt="1543105317970" redirect="true"/>
+  <file name="deliquent-tax-assistance.html" crc="3842261864" seo="true" mt="1543103174047" redirect="true"/>
+</manifest>
